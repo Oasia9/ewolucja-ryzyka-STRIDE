@@ -188,7 +188,7 @@
           },
           {
             "position": {
-              "x": 375,
+              "x": 395,
               "y": -10
             },
             "size": {
@@ -614,13 +614,6 @@
                 "informationDisclosure": 0,
                 "denialOfService": 1
               }
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
